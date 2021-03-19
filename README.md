@@ -1,2 +1,2 @@
 
-[Link](https://johnfhurst.com) and ![Image](/images/header.jpg)
+[Link](http://johnfhurst.com
