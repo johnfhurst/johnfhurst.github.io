@@ -1,2 +1,5 @@
 theme: jekyll-theme-modernist
+title: johnfhurst.github.io
+description: Some Things about John
+show_downloads: true
 logo: /images/serverroomJohn.jpg
