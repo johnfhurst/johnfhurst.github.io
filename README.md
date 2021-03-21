@@ -21,11 +21,11 @@ In my 20 years of full time employment at the George Washington University I hav
 
 **Employment**
 
-Systems Engineer February 2016 - Present
+**Systems Engineer February 2016 - Present**
 
-Senior Information Systems Coordinator April 2013 - February 2016
+**Senior Information Systems Coordinator April 2013 - February 2016**
 
-Analyst, User Technical Support February 2012 – April 2013
+**Analyst, User Technical Support February 2012 – April 2013**
 
 Systems Engineering Services, GWIT The George Washington University
 
@@ -46,9 +46,9 @@ Systems Engineering Services, GWIT The George Washington University
 - Documented and provided training materials for new workflows and to allow application owners
     insight into processes to improve integration and eliminate bottlenecks in current workflows
 
-Analyst, User Technical Support July 2006 - Feb 2012
+**Analyst, User Technical Support July 2006 - Feb 2012**
 
-Customer Support Services, Division of IT The George Washington University
+**Customer Support Services, Division of IT The George Washington University**
 
 - Lead engineer for team supporting 75 Linux servers running Apache, MySQL, DHCP, and system
     monitoring services
@@ -59,9 +59,9 @@ Customer Support Services, Division of IT The George Washington University
 - Created and maintained the standard Apple workstation image for Staff and Faculty
 - Maintained documentation platform (MediaWiki)
 
-Systems Specialist November 1999 – September 2006
+**Systems Specialist November 1999 – September 2006**
 
-Student Academic Support Services (SASS) The George Washington University
+**Student Academic Support Services (SASS) The George Washington University**
 
 - Linux server administration including for divisional websites and custom application development.
 - Assisted with maturing the development process for web application developers, introducing test
@@ -72,9 +72,9 @@ Student Academic Support Services (SASS) The George Washington University
 - Supervised student workers and managed day-to-day technical support operations
 - Mentored student supervisor’s in IT processes and procedures
 
-Student Computer Technician September 1995 - November 1999
+**Student Computer Technician September 1995 - November 1999**
 
-Student Academic Support Services (SASS) The George Washington University
+**Student Academic Support Services (SASS) The George Washington University**
 
 - Provided field and phone support of Windows as well as user management in eDirectory/LDAP.
 - Support of student computers for newly wired residence halls on campus, including creation of
