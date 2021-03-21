@@ -1,20 +1,16 @@
 # John Hurst
-
+```
 1407 S. George Mason Dr. Apt. 22
 Arlington, VA 22204
 Phone: 703-261-5497
 johnhurst@gmail.com
+```
 **Summary**
+
 I am currently employed as a systems engineer leading a small team of Unix/Linux system
-administrators to provide 24x7 support for enterprise services hosted on approximately 500 servers for
-The George Washington University. In my current role I have taken responsibility for maturing our
-operational processes and integration between support groups to allow for a more full adoption of
-common DevOps processes and reduce the time needed to build solutions both on premises and as the
-organization begins to move services into AWS.
-In my 20 years of full time employment at the George Washington University I have been asked
-to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to
-my functions as a systems engineer. These roles have provided me with a wealth of experience and
-ability to perform a large number of roles that I believe make me an asset to any organization.
+administrators to provide 24x7 support for enterprise services hosted on approximately 500 servers for The George Washington University. In my current role I have taken responsibility for maturing our operational processes and integration between support groups to allow for a more full adoption of common DevOps processes and reduce the time needed to build solutions both on premises and as the organization begins to move services into AWS. 
+
+In my 20 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
 
 **Skills**
 
@@ -24,9 +20,13 @@ ability to perform a large number of roles that I believe make me an asset to an
     used while seeking undergraduate degree
 
 **Employment**
+
 Systems Engineer February 2016 - Present
+
 Senior Information Systems Coordinator April 2013 - February 2016
+
 Analyst, User Technical Support February 2012 – April 2013
+
 Systems Engineering Services, GWIT The George Washington University
 
 - Initiated the expanded use of Puppet to support applications administered by the mail, desktop
@@ -46,16 +46,8 @@ Systems Engineering Services, GWIT The George Washington University
 - Documented and provided training materials for new workflows and to allow application owners
     insight into processes to improve integration and eliminate bottlenecks in current workflows
 
-
-# John Hurst
-
-```
-1407 S. George Mason Dr. Apt. 22
-Arlington, VA 22204
-Phone: 703-261-
-johnhurst@gmail.com
-```
 Analyst, User Technical Support July 2006 - Feb 2012
+
 Customer Support Services, Division of IT The George Washington University
 
 - Lead engineer for team supporting 75 Linux servers running Apache, MySQL, DHCP, and system
@@ -68,6 +60,7 @@ Customer Support Services, Division of IT The George Washington University
 - Maintained documentation platform (MediaWiki)
 
 Systems Specialist November 1999 – September 2006
+
 Student Academic Support Services (SASS) The George Washington University
 
 - Linux server administration including for divisional websites and custom application development.
@@ -80,6 +73,7 @@ Student Academic Support Services (SASS) The George Washington University
 - Mentored student supervisor’s in IT processes and procedures
 
 Student Computer Technician September 1995 - November 1999
+
 Student Academic Support Services (SASS) The George Washington University
 
 - Provided field and phone support of Windows as well as user management in eDirectory/LDAP.
@@ -89,13 +83,16 @@ Student Academic Support Services (SASS) The George Washington University
     platform for the division’s web developers
 
 **Professional Certifications**
-● HashiCorp Certified: Terraform Associate (Jul 2020 - current)
-● AWS Certified Cloud Practitioner (Nov 2019 - current)
-● Red Hat Certified Engineer training(May 2016 - May 2019)
-● Red Hat Certified System Administrator (May 2012 - May 2019)
-● ITIL v3 Foundations Certified
-● MCITP and MCTS Windows7 Certified (Aug 2011 - Aug 2014)
+
+- HashiCorp Certified: Terraform Associate (Jul 2020 - current)
+- AWS Certified Cloud Practitioner (Nov 2019 - current)
+- Red Hat Certified Engineer training(May 2016 - May 2019)
+- Red Hat Certified System Administrator (May 2012 - May 2019)
+- ITIL v3 Foundations Certified
+- MCITP and MCTS Windows7 Certified (Aug 2011 - Aug 2014)
 
 **Education**
+
 The George Washington University Washington, D.C.
+
 Bachelor of Science, Computer Science May, 2001
