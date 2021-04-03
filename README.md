@@ -21,7 +21,7 @@ In my 20 years of full time employment at the George Washington University I hav
 
 **Employment**
 
-** Manager of Server Administration October 2020 - Present**
+**Manager of Server Administration October 2020 - Present**
 
 Platform and Cloud Computing, GWIT The George Washington University
 
