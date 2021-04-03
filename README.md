@@ -1,9 +1,9 @@
 # John Hurst
 ```
-1407 S. George Mason Dr. Apt. 22
-Arlington, VA 22204
-Phone: 703-261-5497
-johnhurst@gmail.com
+linkedin: linkedin.com/in/johnfhurst
+email: johnhurst@gmail.com
+github: johnfhurst
+
 ```
 **Summary**
 
@@ -21,7 +21,11 @@ In my 20 years of full time employment at the George Washington University I hav
 
 **Employment**
 
-**Systems Engineer February 2016 - Present**
+** Manager of Server Administration October 2020 - Present**
+
+Platform and Cloud Computing, GWIT The George Washington University
+
+**Systems Engineer February 2016 - September 2020**
 
 **Senior Information Systems Coordinator April 2013 - February 2016**
 
