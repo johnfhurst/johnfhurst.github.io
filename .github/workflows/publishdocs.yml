@@ -20,7 +20,7 @@ jobs:
       - uses: cupcakearmy/confluence-markdown-sync@v1.0.1
         with:
           from: './README.md'
-          to: '123456' # The confluence page id where to write the output
+          to: '294913' # The confluence page id where to write the output
           cloud: 7dd34779-7c12-156d-kc2c-66j9kkk416c2
           user: johnhurst@gmail.com
           token: ${{ secrets.CONFLUENCE }}
