@@ -11,7 +11,7 @@ github: johnfhurst
 I am currently employed as a systems engineer leading a small team of Unix/Linux system
 administrators to provide 24x7 support for enterprise services hosted on approximately 500 servers for The George Washington University. In my current role I have taken responsibility for maturing our operational processes and integration between support groups to allow for a more full adoption of common DevOps processes and reduce the time needed to build solutions both on premises and as the organization begins to move services into AWS.
 
-In my 20 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
+In my 22 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
 
 **Skills**
 
