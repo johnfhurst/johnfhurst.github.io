@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-![A large cartoon face](/assets/images/animatedface.jpeg)
+![A large cartoon face](/assets/images/face256.png)
