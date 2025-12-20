@@ -6,16 +6,19 @@ permalink: /resume/
 
 ```text
 linkedin: linkedin.com/in/johnfhurst
-email: johnhurst@gmail.com
-github: johnfhurst
+email: johnhurst@gmail.com | trexl@gwu.edu
+github: johnfhurst | gwutrexl
 ```
 
 **Summary**
 
-I am currently employed as a systems engineer leading a small team of Unix/Linux system
-administrators to provide 24x7 support for enterprise services hosted on approximately 500 servers for The George Washington University. In my current role I have taken responsibility for maturing our operational processes and integration between support groups to allow for a more full adoption of common DevOps processes and reduce the time needed to build solutions both on premises and as the organization begins to move services into AWS.
+I have been in my current role since October of 2020. In this role I lead a team of server administrators that are responsible for virtual server deployments and the on-premises virtualization environment to support enterprise applications at The George Washington University (GWU). My team supports over 200 services for GWU either by managing the servers, providing techincal support for applications, or knowledge transfer and training if required. The team is also responsible for managent of GWU’s GitHub Enterprise for Education offering, managed file transfer through Axway’s Secure Transfer, and backend mail services.
 
-In my 22 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
+I’ve helped the team migrate some impactful changes to both their workflows and the IT infrastructure for the University. We’ve combined separate Windows and Linux team members to a common server administration team. We’ve migrated many of our on-premises workloads to AWS. While lift and shift has been the order of the day, we’ve made adaptations to service delivery in the way of removing unneeded servers and performance tuning along the way. AWS’ native optimization and automation are next steps.
+
+For those next steps, I’ve worked to help my team acquire the base skills needed to transition away form click-ops to infrastructure as code. 90% of my team is certified with GitHub Foundations. At the end of 2025, that same percentage will be certified with GitHub Actions. These fundamental skills position them to quickly adapt to any cloud provider changes.
+
+From 1994 until transitioning to my new role, I’ve worked at GWU in various systems administration roles, each with increasing levels of responsibility. I began my career as a student worker doing desktop support and my last individual contributor role was as team lead for GWIT’s Unix/Linux team.
 
 **Current Certifications**
 
