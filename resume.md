@@ -1,6 +1,6 @@
 ---
 layout: page
-title: John Hurst | A Resume
+title: Resume
 permalink: /resume/
 ---
 
