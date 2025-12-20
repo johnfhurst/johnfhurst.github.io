@@ -17,6 +17,13 @@ administrators to provide 24x7 support for enterprise services hosted on approxi
 
 In my 22 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
 
+**Current Certifications**
+[![MOR Leaders Program](/assets/certs/mor-leaders-program.png)](https://www.credly.com/badges/221e60e8-cc9b-4cab-b0f3-e00fdd762b5e/public_url)
+[![New Managers Institute](/assets/certs/new-managers-institute.png)](https://www.credly.com/badges/e412e1ce-ff67-403d-9f3a-69489f83afcf/public_url)
+[![GitHub Foundations Certification](/assets/certs/github-foundations.png)](https://www.credly.com/badges/7488c25d-4def-4e5a-9fa7-4edc578f4a84/public_url)
+[![GitHub Administration Certification](/assets/certs/github-administration.png)](https://www.credly.com/badges/a1fdbd90-4d8e-4834-8e44-465384c80f3a/public_url)
+[![GitHub Actions Certification](/assets/certs/github-actions.png)](https://www.credly.com/badges/f274d10b-004a-4987-bb91-8eddad64f22a/public_url)
+
 **Skills**
 
 - **Platforms/Applications:** Linux, Puppet, Terraform, Jenkins, GitLab with CI/CD, GitHub, Packer,
