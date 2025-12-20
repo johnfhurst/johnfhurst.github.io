@@ -18,14 +18,24 @@ administrators to provide 24x7 support for enterprise services hosted on approxi
 In my 22 years of full time employment at the George Washington University I have been asked to fill the roles of programmer, manager, application administrator, trainer, and team lead in addition to my functions as a systems engineer. These roles have provided me with a wealth of experience and ability to perform a large number of roles that I believe make me an asset to any organization.
 
 **Current Certifications**
-[![MOR Leaders Program](/assets/certs/mor-leaders-program.png)](https://www.credly.com/badges/221e60e8-cc9b-4cab-b0f3-e00fdd762b5e/public_url)
-[![New Managers Institute](/assets/certs/new-managers-institute.png)](https://www.credly.com/badges/e412e1ce-ff67-403d-9f3a-69489f83afcf/public_url)
-[![GitHub Foundations Certification](/assets/certs/github-foundations.png)](https://www.credly.com/badges/7488c25d-4def-4e5a-9fa7-4edc578f4a84/public_url)
-[![GitHub Administration Certification](/assets/certs/github-administration.png)](https://www.credly.com/badges/a1fdbd90-4d8e-4834-8e44-465384c80f3a/public_url)
-[![GitHub Actions Certification](/assets/certs/github-actions.png)](https://www.credly.com/badges/f274d10b-004a-4987-bb91-8eddad64f22a/public_url)
+
+<a href="https://www.credly.com/badges/221e60e8-cc9b-4cab-b0f3-e00fdd762b5e/public_url">
+<img src="/assets/certs/mor-leaders-program.png" alt="MOR Leaders Program" width="104" height="104">
+</a>
+<a href="https://www.credly.com/badges/e412e1ce-ff67-403d-9f3a-69489f83afcf/public_url">
+<img src="/assets/certs/new-managers-institute.png" alt="MOR Leaders Program" width="104" height="104">
+</a>
+<a href="https://www.credly.com/badges/f274d10b-004a-4987-bb91-8eddad64f22a/public_url">
+<img src="/assets/certs/github-actions.png" alt="GitHub Actions" width="104" height="104">
+</a>
+<a href="https://www.credly.com/badges/7488c25d-4def-4e5a-9fa7-4edc578f4a84/public_url">
+<img src="/assets/certs/github-foundations.png" alt="GitHub Foundations" width="104" height="104">
+</a>
+<a href="https://www.credly.com/badges/a1fdbd90-4d8e-4834-8e44-465384c80f3a/public_url">
+<img src="/assets/certs/github-administration.png" alt="GitHub Administration" width="104" height="104">
+</a>
 
 **Skills**
-
 - **Platforms/Applications:** Linux, Puppet, Terraform, Jenkins, GitLab with CI/CD, GitHub, Packer,
     Git, AWS, VMware, Nagios XI, Spacewalk/RedHat Satellite, Confluence
 - **Programming Languages:** Puppet, Bash, php, some Perl, some Python. Ada, Java, C, C++
@@ -98,7 +108,7 @@ Systems Engineering Services, GWIT The George Washington University
 - As a senior student employee I began to manage Linux web servers(apache) that provided a
     platform for the division’s web developers
 
-**Professional Certifications**
+**Past Professional Certifications**
 
 - HashiCorp Certified: Terraform Associate (Jul 2020 - current)
 - AWS Certified Cloud Practitioner (Nov 2019 - current)
