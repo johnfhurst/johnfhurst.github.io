@@ -28,13 +28,10 @@ url: "https://johnfhurst.github.io" # the base hostname & protocol for your site
 github_username:  johnfhurst
 
 # Build settings
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
-minima:
-  skin: dark
+
   
 
 # Exclude from processing.
