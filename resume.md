@@ -10,6 +10,7 @@ email: johnhurst@gmail.com | trexl@gwu.edu
 github: johnfhurst | gwutrexl
 ```
 
+
 **Summary**
 
 I have been in my current role since October of 2020. In this role I lead a team of server administrators that are responsible for virtual server deployments and the on-premises virtualization environment to support enterprise applications at The George Washington University (GWU). My team supports over 200 services for GWU either by managing the servers, providing techincal support for applications, or knowledge transfer and training if required. The team is also responsible for managent of GWU’s GitHub Enterprise for Education offering, managed file transfer through Axway’s Secure Transfer, and backend mail services.
